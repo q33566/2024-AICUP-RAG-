@@ -1,0 +1,7 @@
+*.csv
+*.json
+
+contest_dataset
+.venv
+faq/text-embedding-3-small-cache
+answer
